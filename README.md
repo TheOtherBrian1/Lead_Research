@@ -3,15 +3,20 @@
 My Research on Lead Toxicity
 
 </hr>
+**Data Sources**
+<pre>
+    All state data came from state reported data collected by the CDC from either 2016 or 2017. You can access
+    reformatted data through my <a href = "https://docs.google.com/spreadsheets/d/1Jt5WW2P5hQRuB6Nf_WjXp857dPxlX41ivo7kDJPh_kg/edit?usp=sharing">Google Drive Link</a> or on my <a href = "https://github.com/TheOtherBrian1">Github Profile</a>.
+    - <a href = "https://www.cdc.gov/nceh/lead/data/state.htm">CDC Data</a>
 <br>
-<a href = "https://public.tableau.com/app/profile/brian5756/viz/AdolescentLeadExposureRatesbyCounty/ElevatedAdoloscentLeadRatesbyCounty">Interactive Link</a>
+<a href = "https://public.tableau.com/app/profile/brian5756/viz/AdolescentLeadExposureRatesbyCounty/ElevatedAdoloscentLeadRatesbyCounty">Interactive Link</a><br>
 Children under 72 months who have elevated levels of lead in their blood
 <img src = "./Readme-assets/lead_toxicity_by_county.PNG" />
 </hr>
 
 <h5>Skills Used:</h5>
 <pre>
-     - Cloud API
+    - Cloud API
          - Connect to Google Cloud
          - Upload data to Google Sheets through API
          
