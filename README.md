@@ -5,9 +5,8 @@ My Research on Lead Toxicity
 </hr>
 <h4>Data Sources</h4>
 <p>
-    All state data came from state reported data collected by the CDC from either 2016 or 2017. You can access
-    reformatted data through my <a href = "https://docs.google.com/spreadsheets/d/1Jt5WW2P5hQRuB6Nf_WjXp857dPxlX41ivo7kDJPh_kg/edit?usp=sharing">Google Drive Link</a> or on my <a href = "https://github.com/TheOtherBrian1">Github Profile</a>.
-    - <a href = "https://www.cdc.gov/nceh/lead/data/state.htm">CDC Data</a>
+    All state data was collected by the CDC and is from either 2016 or 2017. You can access
+    reformatted data through my <a href = "https://docs.google.com/spreadsheets/d/1Jt5WW2P5hQRuB6Nf_WjXp857dPxlX41ivo7kDJPh_kg/edit?usp=sharing">Google Drive Link</a> or on my <a href = "https://github.com/TheOtherBrian1">Github Profile</a>. Here's a link to the <a href = "https://www.cdc.gov/nceh/lead/data/state.htm">unmodified CDC data</a>.
   </p>
 <br>
 <a href = "https://public.tableau.com/app/profile/brian5756/viz/AdolescentLeadExposureRatesbyCounty/ElevatedAdoloscentLeadRatesbyCounty">Interactive Link</a><br>
